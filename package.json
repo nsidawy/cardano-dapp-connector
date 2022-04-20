@@ -1,0 +1,24 @@
+{
+  "name": "cardano-dapp-connector",
+  "version": "1.0.0",
+  "description": "Basic Cardano dapp connector.",
+  "main": "cbor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsidawy/cardano-dapp-connector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsidawy/cardano-dapp-connector/issues"
+  },
+  "homepage": "https://github.com/nsidawy/cardano-dapp-connector#readme",
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-browser": "^10.0.4",
+    "bech32": "^2.0.0",
+    "react": "^18.0.0"
+  }
+}
